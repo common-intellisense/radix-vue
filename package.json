@@ -7,12 +7,12 @@
   "author": "Simon He",
   "license": "MIT",
   "funding": "https://github.com/sponsors/Simon-He95",
-  "homepage": "https://github.com/common-intellisense/radix-vue1#readme",
+  "homepage": "https://github.com/common-intellisense/radix-vue#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/common-intellisense/radix-vue1.git"
+    "url": "git+https://github.com/common-intellisense/radix-vue.git"
   },
-  "bugs": "https://github.com/common-intellisense/radix-vue1/issues",
+  "bugs": "https://github.com/common-intellisense/radix-vue/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
